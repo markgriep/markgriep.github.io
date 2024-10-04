@@ -2,7 +2,7 @@
 
 
 ## About Me
-I have decades of experience in IT.
+I have decades of experience in IT.  Ucrrently I program software using C#, .Net and SQL for City Utilites of Springfield.
 
 
 ## List of projects
