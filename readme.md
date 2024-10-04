@@ -14,3 +14,9 @@ I have decades of experience in IT.  Currently I program software using C#, .Net
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/markegriep) or [GitHub](https://github.com/markgriep).
 
+
+
+####
+TODO
+This page needs editing.  See here:
+https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-host-your-personal-portfolio-using-github-pages/ba-p/4246304
